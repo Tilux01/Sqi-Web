@@ -1,0 +1,99 @@
+@media screen and (max-width: 990px) {
+    header{
+        height: 9vh !important;
+    }
+    header nav{
+        display: none !important;
+    }
+    header img{
+        width: 7vh !important;
+        padding-top: 2%;
+    }
+    .menu{
+        left: 80vi;
+        display: initial !important;
+    }
+    .main_sec{
+        
+    }
+    .main_sec .heading_text h1{
+        font-size: 3.3rem !important;
+        color: rgb(1,18,66) !important;
+        font-weight: 900 !important;
+    }
+    .main_sec div,
+    .sec_2 .y div,
+    .sec_2 .ryy div{
+        width: 100% !important;
+    }
+    .sec_3 div:nth-child(1),
+    .sec_3 div:nth-child(2),
+    .sec_3 div:nth-child(3),
+    .sec_3 div:nth-child(4),
+    .sec_3 div:nth-child(5){
+        width: 100%;
+    }
+    .sec_3 .up{
+        position: relative;
+        top: 0%;
+    }
+    .sec_3 .down{
+        position: relative;
+        left:0%;
+        top: 0%;
+    }
+    .sec_4{
+        position: relative;
+        top: 0%;
+    }
+    .sec_4 div:nth-child(1){
+        margin-top: 5rem;
+        width: 100% !important;
+    }
+    .sec_5 .img{
+        width: 100%;
+    }
+    .sec_5 div:nth-child(2){
+        width: 80% !important;
+    }
+    .sec_5 div:nth-child(2) h1{
+        font-size: 2rem !important;
+    }
+    .sec_5 div:nth-child(2) button,
+    .sec_7 > div div:nth-child(1) h5{
+        width: 50% !important;
+    }
+    .sec_6{
+        padding: 5%;
+        justify-content: center;
+    }
+    .sec_6 .rrr{
+        width: 100%;
+        height: 30vh;
+        position: relative;
+        top: 0% !important;
+        left: 0% !important;
+        right: 0% !important;
+        margin-left: 0% !important;
+        margin-top: 10% !important;
+        z-index: 333;
+        margin-bottom: 5rem;
+    }
+    .sec_6 .rrr img{
+        width: 300%;
+        position: relative;
+        top: -10rem;
+    }
+    .sec_7 > div div:nth-child(1),
+    .sec_7 > div div:nth-child(2){
+        width: 100% !important;
+    }
+    .sec_8 h1{
+        font-size: 2rem;
+    }
+    .sec_8 button,
+    .sec_9 button{
+    margin-top: 2rem;
+    width: 40%;
+    }
+}

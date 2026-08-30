@@ -1,0 +1,149 @@
+header img{
+    width: 70px;
+}
+header ul{
+    gap: 3vw;
+}
+header nav{
+    margin-left: 30%;
+}
+header{
+    position: fixed;
+    top: 0px;
+    z-index: 2000;
+    height: 80px;
+}
+.main_sec{
+    background-color: rgb(255,254,247);
+}
+.menu{
+    display: none !important;
+}
+section{
+    width: 100%;
+}
+.main_sec .heading_text{
+    margin-top: 5.5rem !important;
+}
+.main_sec .heading_text h1{
+    font-size: 4.3rem !important;
+    color: rgb(1,18,66) !important;
+    font-weight: 900 !important;
+}
+.main_sec .rer{
+    width: 50%;
+}
+button{
+    height: 3.2rem;
+    background-color: rgb(8,47,138);
+}
+.sec_2 h1,
+.sec_2 h4,
+.sec_2 h5{
+    color:rgb(1,18,66);
+}
+.sec_2 h1{
+    font-size: 2.9rem !important;
+}
+.sec_2 .d-flex div{
+    width: 30% !important;
+}
+.sec_2 img{
+    width: 100%;
+}
+.sec_2 h5{
+    width: 31%;
+}
+.sec_3{
+    gap: 2rem !important;
+}
+.sec_3 div{
+    width: 47%;
+    background-color: aquamarine;
+    padding: 5rem 2rem 6rem 2rem;
+    border-radius: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+} 
+.sec_3 div img{
+    width: 100%;
+    border-radius: 1rem;
+}
+.sec_3 .up{
+    position: relative;
+    top: -30rem;
+}
+.sec_3 .down{
+    position: relative;
+    left:6%;
+    top: 8rem;
+}
+.sec_4{
+    position: relative;
+    top: -11rem;
+}
+.sec_4 div img{
+    margin-right: 1.6rem;
+    scale: 0.8;
+}
+.sec_5{
+    background:blueviolet;
+}
+.sec_5 .img{
+    width: 30%;
+}
+.sec_5 .text h1{
+    font-size: 2.9rem;
+    font-weight: 900;
+}
+.sec_6 .wrapper img{
+    width: 13%;
+}
+.sec_6 .rrr{
+    width: 120%;
+    padding-left: 13rem;
+    overflow: hidden;
+    margin-left: 5rem;
+}
+.sec_6 .rrr img{
+    width: 270%;
+    scale: 2;
+}
+.sec_7{
+    background-color: rgb(10,8,38);
+    padding-top: 5rem;
+}
+.sec_7 .ee{
+    padding-right: 10rem;
+}
+.sec_7 .er{
+    padding-left: 2rem;
+}
+.sec_8{
+    background-color: rgb(2,17,63);
+}
+.sec_8 h1{
+    font-size: 3.8rem;
+    font-weight: 900;
+}
+.sec_8 button,
+.sec_9 button{
+    width: 12%;
+}
+.sec_9{
+    background-color: rgb(243,242,255);
+}
+.sec_9 .diver p{
+    margin-right: 67%;
+}
+.sec_9 .gapper div{
+    box-shadow: 1rem 3rem 5rem rgba(0, 0, 0, 0.1);
+}
+.sec_10 > div{
+    gap: 6rem;
+}
+footer{
+    background-color: rgb(10,19,68);
+    top: 1rem;
+}
+
